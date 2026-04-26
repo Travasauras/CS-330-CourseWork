@@ -1,2 +1,4 @@
 # CS-330-CourseWork
-3D scene created with OpenGL
+For my 3d scene I started with staging a scene in my house to recreate in OpenGL.  I began drawing shapes and translating them into positions that resembled the real life counterpart.  I then created some camera movement functions to allow the user to change the camera position while viewing the scene, once that was complete I began to add textures to all of them.  Adding lighting to the project was quite a challenge because my machine would not render the light properly but luckily I had another machine that worked and I was able to transfer my work over to it. From there I added 3 light sources to mimic the light in the real life counterpart of the 3d image as well as creating object materials to apply to the objects so they would reflect the light. 
+
+I used an iterative process to create this project in steps which I was able to verify the functionality of to make sure the program worked as it was built instead of building to completion and trying to solve for errors at the end.  Remaining Agile in a workflow like this is vital to creating a complex project in a shorter amount of time. 
